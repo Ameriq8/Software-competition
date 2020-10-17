@@ -1,5 +1,5 @@
 const moment = require("moment");
-const config = {	"webhook1": "https://ptb.discordapp.com/api/webhooks/734122206744805506/oSeyaOd0M6XjmB51eL2EFbSE8cbwn0p5lhrvKAPLwAkpiDMVUvdG3dIlpcU_KKoSSuup"}
+const config = {	"webhook1": "WEBHOOK_URL"}
 const Discord = require("discord.js");
 
 exports.log = (content, type = "log") => {
