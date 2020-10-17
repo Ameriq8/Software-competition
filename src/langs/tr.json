@@ -1,0 +1,28 @@
+{
+    "language":"Turki",
+    "Permissions":{
+    "Kick":{
+    "client":"Bu kullanıcıyı tekmelememe izin verilmiyor. (KICK_MEMBERS)",
+      "author":"Bu kullanıcıyı tekmeleme izniniz yok. (KICK_MEMBERS)",
+      "succes":""
+    },
+  "Ban":{
+    "client":"bu kullanıcıyı yasaklamam yasak. (BAN_MEMBERS)",
+      "author":"Bu kullanıcıyı yasaklamanıza izin verilmiyor. (BAN_MEMBERS)"
+   },
+  "Else":{
+    "client":"lütfen izinlerimi kontrol et.",
+      "author":"Lütfen güçlerinizi kontrol edin."
+  }
+      
+    },
+    "clearJS":"mesaj silindi [msgs].",
+    "Deleting":"Siliniyor...",
+    "ProviedSomeOne":"Lütfen birinden bahset.",
+    "ProvideChannel":"Lütfen Ayarlamak İçin Bir Kanal Adı veya Kimliği Girin." ,
+    "Please_Enter_A_Valid_Text_Channel":"Lütfen Geçerli Bir Metin Kanalı Girin"
+    ,"Modlog_Channel_Set":"Modlog Kanal Seti!"
+  ,    "This_Channel_is_Already_Set_As_Modlog_Channel!":"Bu kanal zaten ayarlanmış."
+, "Modlog_Channel_Has_Been_Set": "**Modlog Channel Has Been Set Successfully in `{channel}`!**"
+
+}

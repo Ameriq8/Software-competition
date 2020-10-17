@@ -1,0 +1,27 @@
+{
+    "language":"Arabic",
+    "Permissions":{
+    "Kick":{
+    "client":"ليست لدي الصلاحيات لطرد العضو. (KICK_MEMBERS)",
+      "author":"ليست لديك الصلاحيات لطرد العضور. (KICK_MEMBERS)",
+      "succes":""
+    },
+  "Ban":{
+    "client":"ليست لدي الصلاحيات لحظر العضو. (BAN_MEMBERS))",
+      "author":"ليست لديك الصلاحيات لحظر العضور. (BAN_MEMBERS)"
+   },
+  "Else":{
+    "client":"يرجا التحقق من صلاحياتي.",
+      "author":"تحقق من صلاحياتك."
+  }
+      
+    },
+    "clearJS":"تم مسح [msgs] رساله.",
+    "Deleting":"...جاري المسح",
+     "ProviedSomeOne":"يرجا ذكر شخصاً ما.",
+      "ProvideChannel":"يرجا ذكر اسم الروم.",
+    "This_Channel_is_Already_Set_As_Modlog_Channel!":"تم تعيين هذه الروم من قبل."
+,  "Please_Enter_A_Valid_Text_Channel":"يرجا ذكر روم كتابيه."
+, "Modlog_Channel_Set!": "تم تفعيل هذا الروم!."
+
+}

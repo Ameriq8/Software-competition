@@ -1,0 +1,28 @@
+{
+    "language":"English",
+"Permissions":{
+    "Kick":{
+    "client":"**<a:Cross:733270664932491304> I don't have permission to ban this user!! - ** *[KICK_MEMBERS]*",
+      "author":"<a:Cross:733270664932491304> You don't have permission to kick this user (KICK_MEMBERS)",
+      "succes":""
+    },
+  "Ban":{
+    "client":"<a:Cross:733270664932491304> I don't have permission to ban this user (BAN_MEMBERS)",
+      "author":"<a:Cross:733270664932491304> You don't have permission to ban this user. (BAN_MEMBERS)"
+   },
+  "Else":{
+    "client":"<a:Cross:733270664932491304> Please check my permission",
+      "author":"<a:Cross:733270664932491304> Please check your permission."
+  }
+      
+    },
+    "clearJS":"<a:Check:733270880938885161> [msgs] messages have been deleted",
+    "Deleting":"<a:Looding:733270762147938356> Deleting...",
+    "ProviedSomeOne": "**<a:Cross:733270664932491304>Please mention someone.**",
+  "ProvideChannel":"<a:Cross:733270664932491304> Please Enter A Channel Name or ID To Set.",
+  "Please_Enter_A_Valid_Text_Channel":"Please Enter A Valid Text Channel",
+  "This_Channel_is_Already_Set_As_Modlog_Channel!":"This Channel is Already Set As Modlog Channel!"
+, "Modlog_Channel_Set!": "Modlog Channel Set!"
+, "Modlog_Channel_Has_Been_Set": "**Modlog Channel Has Been Set Successfully in `{channel}`!**"
+
+}
